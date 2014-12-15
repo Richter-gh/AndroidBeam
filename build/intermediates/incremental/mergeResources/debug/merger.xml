@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="E:\android\Eclipse\workspace\Test\res" >
+            <file
+                name="empty"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\empty.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="m_minus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\m_minus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="m_plus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\m_plus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="q_minus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\q_minus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="q_minus_m_minus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\q_minus_m_minus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="q_minus_m_plus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\q_minus_m_plus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="q_plus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\q_plus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="q_plus_m_minus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\q_plus_m_minus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="q_plus_m_plus"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-hdpi\q_plus_m_plus.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\android\Eclipse\workspace\Test\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="E:\android\Eclipse\workspace\Test\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_result"
+                path="E:\android\Eclipse\workspace\Test\res\layout\activity_result.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="length_dialog"
+                path="E:\android\Eclipse\workspace\Test\res\layout\length_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="m_dialog"
+                path="E:\android\Eclipse\workspace\Test\res\layout\m_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="p_dialog"
+                path="E:\android\Eclipse\workspace\Test\res\layout\p_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="q_dialog"
+                path="E:\android\Eclipse\workspace\Test\res\layout\q_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mymenu"
+                path="E:\android\Eclipse\workspace\Test\res\menu\mymenu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="result"
+                path="E:\android\Eclipse\workspace\Test\res\menu\result.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="E:\android\Eclipse\workspace\Test\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="E:\android\Eclipse\workspace\Test\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_result" >Result
+                </string>
+                <string name="app_name" >Balka
+                </string>
+                <string name="title_main" >Main
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="E:\android\Eclipse\workspace\Test\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="E:\android\Eclipse\workspace\Test\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="E:\android\Eclipse\workspace\Test\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="E:\android\Eclipse\workspace\Test\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="E:\android\Eclipse\workspace\Test\build\generated\res\rs\debug" />
+        <source path="E:\android\Eclipse\workspace\Test\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\android\Eclipse\workspace\Test\build-types\debug\res" />
+    </dataSet>
+
+</merger>

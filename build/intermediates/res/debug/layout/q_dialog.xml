@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10sp" >
+ 
+    <EditText
+        android:id="@+id/q_a"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="начало нагрузки"
+        android:singleLine="true" 
+        android:inputType="numberDecimal|numberSigned">
+ 
+        <requestFocus />
+    </EditText>
+    <EditText
+        android:id="@+id/q_b"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="конец нагрузки"
+        android:singleLine="true" 
+        android:inputType="numberDecimal|numberSigned">
+ 
+        
+    </EditText>
+ 
+    <EditText
+        android:id="@+id/q_amount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="велична нагрузки"
+        android:inputType="numberDecimal|numberSigned" >
+    </EditText>
+ 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+ 
+        <Button
+            android:id="@+id/q_ok"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="ok" />
+ 
+       
+    </RelativeLayout>
+ 
+</LinearLayout><!-- From: file:/E:/android/Eclipse/workspace/Test/res/layout/q_dialog.xml -->
